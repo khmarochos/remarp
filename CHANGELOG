@@ -1,0 +1,14 @@
+$Id: CHANGELOG,v 1.2 2003/04/10 09:26:05 melnik Exp $
+
+	0.03 2003-03-12
+	---------------
+.oOo.	Comparing procedure has been rewriten;
+.oOo.	Format of spool files has been changed;
+
+	0.04 2003-03-29
+	---------------
+.oOo.	Added "email" option to config and ability to send notifications directly;
+
+	0.05 2003-04-09
+	---------------
+.oOo.	Old IP-address will be removed after change
